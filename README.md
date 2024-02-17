@@ -1,0 +1,2 @@
+# InscripcionPorReconocimientoImagenAPP
+App de reconocimiento de imagenes utilizando inteligencia artificial
